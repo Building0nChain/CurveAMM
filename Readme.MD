@@ -1,7 +1,7 @@
 Welcome to CurveAMM
 
 
-A Functional Token Purchaser that automatically collects and reinvests all generated fee revenue back into the bonding curve.
+A Functional Automatic Market Maker that automatically collects and reinvests all generated fee revenue back into the bonding curve.
 
 
 - Periodic (default 15m) scan and automatic purchase of tokens for the value of sol generated
